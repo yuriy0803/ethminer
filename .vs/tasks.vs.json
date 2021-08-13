@@ -10,11 +10,6 @@
       "taskLabel": "Task-CMakeLists",
       "appliesTo": "CMakeLists.txt",
       "type": "launch"
-    },
-    {
-      "taskLabel": "Task-CMakeLists",
-      "appliesTo": "CMakeLists.txt",
-      "type": "launch"
     }
   ]
 }
